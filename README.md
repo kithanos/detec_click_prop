@@ -24,5 +24,3 @@ library(caret)
 O Dataset de teste está localizado na pasta /datasets, enquanto o dataset completo original (~7,6 GB) pode
 ser baixado na página do Kaggle (https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/data)
 arquivo "train.csv"
-
-
